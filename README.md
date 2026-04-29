@@ -31,10 +31,6 @@ access-to-care-research/
 └── LICENSE              # MIT License
 ```
 
-## Data Privacy
-
-**This repository does not contain any patient-level data.** All analyses reference de-identified, aggregated metrics. Any data files included are synthetic examples or structural documentation only. This project adheres to HIPAA privacy standards and institutional data governance policies.
-
 ## Methods Overview
 
 Analyses in this repository use a combination of:
